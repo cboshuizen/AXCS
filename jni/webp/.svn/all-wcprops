@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webp
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webp/encode.h
+END
+decode_vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webp/decode_vp8.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webp/decode.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webp/types.h
+END

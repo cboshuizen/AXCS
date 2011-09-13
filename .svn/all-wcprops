@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/AndroidManifest.xml
+END

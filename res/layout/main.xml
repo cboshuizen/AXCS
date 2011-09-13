@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+	<TextView	android:id ="@+id/text1"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content" 
+				android:text="Axcs"/>
+    <EditText	android:id ="@+id/edit1"
+				android:text=""
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:hint = "Enter Text Here"
+				android:typeface="serif"/>
+    <Button		android:id="@+id/button1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Button 1" />
+	<Button		android:id="@+id/button2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Process Text" />
+	<Button		android:id="@+id/exit"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Exit" />
+				
+</LinearLayout>

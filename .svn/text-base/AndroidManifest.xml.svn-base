@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="phoneSat.code" android:versionCode="1" android:versionName="JS_2011_04_01">
+    <uses-sdk android:minSdkVersion="8" />
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".UserActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+	<receiver android:process="PhoneSat.pro" android:permission="android.permission.RECEIVE_BOOT_COMPLETED" android:name="AutoStartReceiver">
+		<intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+        </intent-filter>
+	</receiver>
+<service android:name="CommandModuleService"></service>
+<service android:name="IOService"></service>
+<service android:name="SensorDataService"></service>
+<activity android:name="CameraActivity"></activity>
+
+</application>
+
+<uses-permission android:name="android.permission.WAKE_LOCK"></uses-permission>
+<uses-permission android:name="android.permission.CAMERA"></uses-permission>
+<uses-feature android:name="android.hardware.camera"/>
+<uses-feature android:name="android.hardware.camera.autofocus"/>
+<uses-permission android:name="android.permission.READ_LOGS" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+<uses-permission android:name="android.permission.DEVICE_POWER"></uses-permission>
+<uses-permission android:name="android.permission.BLUETOOTH"></uses-permission>
+<uses-permission android:name="android.permission.BLUETOOTH_ADMIN"></uses-permission>
+<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"></uses-permission>
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+</manifest> 

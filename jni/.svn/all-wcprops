@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni
+END
+webpWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webpWrapper.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/tree.c
+END
+cwebp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/cwebp.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/config.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/Android.mk
+END
+cost.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/cost.c
+END
+bit_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/bit_writer.c
+END
+picture.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/picture.c
+END
+Applications.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/Applications.mk
+END
+cost.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/cost.h
+END
+bit_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/bit_writer.h
+END
+vp8enci.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/vp8enci.h
+END
+analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/analysis.c
+END
+webpenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/webpenc.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/filter.c
+END
+syntax.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/syntax.c
+END
+dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/dsp.c
+END
+quant.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/quant.c
+END
+iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/iterator.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/phonesat/!svn/ver/149/trunk/android/PhoneSat/jni/frame.c
+END
